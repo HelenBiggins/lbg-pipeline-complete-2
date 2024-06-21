@@ -5,15 +5,15 @@
 
 .colour-border{
   border: 3px solid rgb(255, 0, 234);
-  padding: 30px;
+  padding: 10px;
 }
 
 .header{
-  padding: 20px;
+  padding: 10px;
 }
 
 h1 { 
-    color: maroon;
+    color: rgb(128, 0, 128);
 }
 
 h3 { 
@@ -22,5 +22,5 @@ h3 {
 
 body  {
   padding: 10px;
-  background-color: rgb(27, 210, 60);
+  background-color: rgb(234, 205, 77);
 }
